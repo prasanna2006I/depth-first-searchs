@@ -1,4 +1,4 @@
-<h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
+<h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1>
 <h3>Name: PRASANNA I </h3>
 <h3>Register Number:  </h3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
